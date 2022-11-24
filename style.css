@@ -107,13 +107,13 @@ h1 {
 
     .ligne {
         position: relative;
-        left: 200px;
+        left: 100px;
     }
     .rond {
-        left: calc(50% + 200px);
+        left: calc(50% + 100px);
     }
     .box {
-        left: calc(50% - 50px)
+        left: calc(50% - 20px)
     }
 
 }
